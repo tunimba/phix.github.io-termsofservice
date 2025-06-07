@@ -1,5 +1,5 @@
 # Terms of Service
-Effective Date: [07.05.2025]
+Effective Date: [08.06.2025]
 
 # 1. Acceptance of These Terms
 By downloading, installing, or using the Phix mobile application (“Phix,” “we,” “our,” or “us”), you (“User,” “you,” or “your”) agree to be bound by these Terms of Service (“Terms”). If you do not agree, do not use Phix.
