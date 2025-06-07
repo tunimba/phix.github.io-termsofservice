@@ -58,12 +58,8 @@ Entire Agreement – These Terms and the Privacy Policy constitute the entire ag
 Severability – If any provision is held invalid, the remaining provisions will remain in full force and effect.
 No Waiver – Failure to enforce any right or provision is not a waiver of such right or provision.
 Assignment – You may not assign these Terms without our consent. We may assign them to an affiliate or in connection with a merger, acquisition, or sale of assets.
+
 16. Contact
-Phix Support
-E-mail: support@phix.app
-Postal: Phix Apps UG (haftungsbeschränkt)
-[Street Address]
-[City, Postal Code]
-Germany
+E-mail: app.phix@gmail.com
 
 Thank you for choosing Phix to restore your memories.
