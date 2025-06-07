@@ -1,11 +1,11 @@
 # Terms of Service
-Effective Date: [18.05.2025]
+Effective Date: [07.05.2025]
 
 # 1. Acceptance of These Terms
 By downloading, installing, or using the Phix mobile application (“Phix,” “we,” “our,” or “us”), you (“User,” “you,” or “your”) agree to be bound by these Terms of Service (“Terms”). If you do not agree, do not use Phix.
 
 # 2. Eligibility
-You must be at least 13 years old (or the minimum age of digital consent in your jurisdiction) and legally capable of forming a binding contract to use Phix. If you are under 18, you represent that you have obtained parental/guardian consent.
+You must be at least 4 years old (or the minimum age of digital consent in your jurisdiction) and legally capable of forming a binding contract to use Phix. If you are under 18, you represent that you have obtained parental/guardian consent.
 
 # 3. License Grant
 We grant you a limited, non-exclusive, non-transferable, revocable license to download and use Phix solely for personal, non-commercial purposes in accordance with these Terms. All rights not expressly granted are reserved by Phix and its licensors.
@@ -45,21 +45,21 @@ No Guarantee of Results – Image-processing outcomes can vary depending on phot
 Photos & Data Loss – We are not liable for any loss or corruption of User Content.
 
 # 10. Limitation of Liability
-To the fullest extent permitted by law, Phix, its affiliates, and licensors shall not be liable for indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data, arising out of or in connection with your use of Phix, even if we have been advised of the possibility of such damages. Our total liability under these Terms shall not exceed the greater of (a) the amount you paid for Phix in the past twelve months or (b) fifty (50) euros.
+To the fullest extent permitted by law, Phix, its affiliates, and licensors shall not be liable for indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data, arising out of or in connection with your use of Phix, even if we have been advised of the possibility of such damages. Our total liability under these Terms shall not exceed the greater fifty (50) euros.
 
 # 11. Indemnification
 You agree to indemnify and hold harmless Phix, its directors, employees, and partners from and against any claims, damages, liabilities, and expenses arising out of (a) your breach of these Terms, (b) your misuse of Phix, or (c) your violation of any law or third-party right.
 
 # 12. Termination
-By You – You may stop using Phix at any time. Deleting the app does not automatically cancel unused credits.
+By You – You may stop using Phix at any time.
 By Us – We may suspend or terminate your access if you violate these Terms, create legal exposure for us, or if we discontinue the service.
 Effect of Termination – Clauses that by their nature should survive (e.g., Intellectual Property, Disclaimers, Limitation of Liability) will remain in effect.
 
 # 13. Governing Law & Dispute Resolution
-These Terms are governed by the laws of Germany without regard to conflict-of-laws principles. You and Phix agree to submit to the exclusive jurisdiction of the courts of Hamburg, Germany for any dispute arising under or in connection with these Terms, unless mandatory consumer laws grant you additional rights in your country of residence.
+These Terms are governed by the laws of Turkey without regard to conflict-of-laws principles. You and Phix agree to submit to the exclusive jurisdiction of the courts of Turkey for any dispute arising under or in connection with these Terms, unless mandatory consumer laws grant you additional rights in your country of residence.
 
 # 14. Changes to the Terms
-We may update these Terms from time to time. We will notify you of material changes via in-app notification or e-mail (if provided) at least 7 days before they take effect. Continuing to use Phix after the effective date constitutes acceptance of the revised Terms.
+We may update these Terms from time to time. Continuing to use Phix after the effective date constitutes acceptance of the revised Terms.
 
 # 15. Miscellaneous
 Entire Agreement – These Terms and the Privacy Policy constitute the entire agreement between you and Phix regarding the app.
