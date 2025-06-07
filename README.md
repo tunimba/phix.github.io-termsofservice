@@ -12,6 +12,7 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to do
 
 # 4. Your Content
 Ownership – You retain all rights to photographs and other content (“User Content”) you upload.
+
 Processing License – You grant Phix a worldwide, royalty-free license to store, process, and transmit User Content solely to provide the app’s restoration and colourisation features. This license terminates once processing is complete and files are deleted (see Privacy Policy).
 Responsibility – You are solely responsible for User Content and warrant that you have all necessary rights to upload it and that it does not infringe any third-party rights or violate any law.
 
